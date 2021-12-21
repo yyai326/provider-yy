@@ -6,4 +6,4 @@ spec:
   forProvider:
     configurableField: test
   providerConfigRef:
-    name: ecs2
+    name: example
